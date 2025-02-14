@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NETCOREAPI\\FirstWebMVC\\FirstWebMVC.csproj",
-      "projectName": "FirstWebMVC",
-      "projectPath": "C:\\NETCOREAPI\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectUniqueName": "C:\\NETCOREAPI\\NewApp\\NewApp.csproj",
+      "projectName": "NewApp",
+      "projectPath": "C:\\NETCOREAPI\\NewApp\\NewApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\NETCOREAPI\\FirstWebMVC\\obj\\",
+      "outputPath": "C:\\NETCOREAPI\\NewApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,9 +63,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
