@@ -389,3 +389,12 @@ C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\obj\Debug\net9.0\refint\MvcMovie.dl
 C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
+C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\bin\Debug\net9.0\EPPlus.dll
+C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\bin\Debug\net9.0\EPPlus.Interfaces.dll
+C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\bin\Debug\net9.0\EPPlus.System.Drawing.dll
+C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.AssemblyReference.cache
+C:\PTPMQL-NguyenTrongLam-04\demoMVC\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.Up2Date
